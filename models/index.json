@@ -1,18 +1,18 @@
 {
  "341d4a3099245d37b7bdef70": {
   "name": "Eric",
-  "size": 7762740,
-  "rigged": true
+  "retired": true,
+  "replacedBy": "335c5b7c32c108503ca6d825"
  },
  "0f31cfe0799477f8dab9d9ed": {
   "name": "Claudia",
-  "size": 9750772,
-  "rigged": true
+  "retired": true,
+  "replacedBy": "1c76a0f32a7abd3307d09de4"
  },
  "3e09328c0ef2b8a574289843": {
   "name": "Carla",
-  "size": 9540736,
-  "rigged": true
+  "retired": true,
+  "replacedBy": "4166720258209606cc886501"
  },
  "f01b8bf21a0f51d2b9fac183": {
   "name": "Marcus (posed scan)",
@@ -21,17 +21,47 @@
  },
  "302339a04afd5bea751f7699": {
   "name": "Nathan",
-  "size": 9997432,
-  "rigged": true
+  "retired": true,
+  "replacedBy": "3dd518b2075df160ca068b04"
  },
  "9a4455a7f780bde70b52ea8f": {
   "name": "Sophia",
-  "size": 8210068,
-  "rigged": true
+  "retired": true,
+  "replacedBy": "943d7a596ae61f7e2c1d5e75"
  },
  "aacaccac7dc63802e4d3cf59": {
   "name": "Manuel",
-  "size": 11487972,
+  "retired": true,
+  "replacedBy": "9372de2c8a0fbfc5b0c5c17f"
+ },
+ "335c5b7c32c108503ca6d825": {
+  "name": "Eric",
+  "size": 5947900,
+  "rigged": true
+ },
+ "4166720258209606cc886501": {
+  "name": "Carla",
+  "size": 6040808,
+  "rigged": true
+ },
+ "1c76a0f32a7abd3307d09de4": {
+  "name": "Claudia",
+  "size": 6212388,
+  "rigged": true
+ },
+ "3dd518b2075df160ca068b04": {
+  "name": "Nathan",
+  "size": 6377056,
+  "rigged": true
+ },
+ "943d7a596ae61f7e2c1d5e75": {
+  "name": "Sophia",
+  "size": 5159772,
+  "rigged": true
+ },
+ "9372de2c8a0fbfc5b0c5c17f": {
+  "name": "Manuel",
+  "size": 7482700,
   "rigged": true
  }
 }
