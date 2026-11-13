@@ -1,1 +1,0 @@
-{"v": 1, "id": "studiotest", "kind": "still", "frames": [12, 12], "fps": 24, "width": 640, "height": 392, "samples": 24, "cameras": [], "look": {"exposure": 1, "sunAngle": 35, "sunHeight": 55, "sunPower": 2, "env": 0.6}, "floor": {"color": "#6b6e76", "roughness": 0.92}}
