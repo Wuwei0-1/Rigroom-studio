@@ -1,18 +1,37 @@
 {
  "341d4a3099245d37b7bdef70": {
   "name": "Eric",
-  "size": 7762740
+  "size": 7762740,
+  "rigged": true
  },
  "0f31cfe0799477f8dab9d9ed": {
   "name": "Claudia",
-  "size": 9750772
+  "size": 9750772,
+  "rigged": true
  },
  "3e09328c0ef2b8a574289843": {
   "name": "Carla",
-  "size": 9540736
+  "size": 9540736,
+  "rigged": true
  },
  "f01b8bf21a0f51d2b9fac183": {
   "name": "Marcus (posed scan)",
-  "size": 4138248
+  "size": 4138248,
+  "rigged": false
+ },
+ "302339a04afd5bea751f7699": {
+  "name": "Nathan",
+  "size": 9997432,
+  "rigged": true
+ },
+ "9a4455a7f780bde70b52ea8f": {
+  "name": "Sophia",
+  "size": 8210068,
+  "rigged": true
+ },
+ "aacaccac7dc63802e4d3cf59": {
+  "name": "Manuel",
+  "size": 11487972,
+  "rigged": true
  }
 }

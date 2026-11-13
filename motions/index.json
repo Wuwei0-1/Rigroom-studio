@@ -1,0 +1,17 @@
+{
+ "39eb64a128cfe68a3df5": {
+  "name": "Dancing (Manuel)",
+  "seconds": 44.7,
+  "frames": 1342
+ },
+ "55ac2250afe41e52ff12": {
+  "name": "Walking (Nathan)",
+  "seconds": 2.2667,
+  "frames": 69
+ },
+ "f7ffb6653840005814fd": {
+  "name": "Idling (Sophia)",
+  "seconds": 20.4,
+  "frames": 613
+ }
+}
