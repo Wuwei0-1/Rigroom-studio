@@ -1,0 +1,27 @@
+{
+ "_builtin": {
+  "pitch": 141.5
+ },
+ "Guide": {
+  "source": "built-in voice",
+  "pitch": 141.5
+ },
+ "Aria A": {
+  "source": "designed",
+  "target": 190,
+  "shift_semitones": 5.11,
+  "pitch": 226.5
+ },
+ "Aria B": {
+  "source": "designed",
+  "target": 175,
+  "shift_semitones": 3.68,
+  "pitch": 194.9
+ },
+ "Aria C": {
+  "source": "designed",
+  "target": 160,
+  "shift_semitones": 2.13,
+  "pitch": 210.1
+ }
+}
