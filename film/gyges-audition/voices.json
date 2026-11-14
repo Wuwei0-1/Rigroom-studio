@@ -1,0 +1,17 @@
+{
+ "Aria A": {
+  "pitch": 190,
+  "exaggeration": 0.55,
+  "cfg": 0.5
+ },
+ "Aria B": {
+  "pitch": 175,
+  "exaggeration": 0.55,
+  "cfg": 0.5
+ },
+ "Aria C": {
+  "pitch": 160,
+  "exaggeration": 0.55,
+  "cfg": 0.5
+ }
+}

@@ -1,0 +1,59 @@
+{
+ "title": "Aria voice audition",
+ "cast": [
+  {
+   "name": "Guide",
+   "about": "labels"
+  },
+  {
+   "name": "Aria A",
+   "about": "190 Hz"
+  },
+  {
+   "name": "Aria B",
+   "about": "175 Hz"
+  },
+  {
+   "name": "Aria C",
+   "about": "160 Hz"
+  }
+ ],
+ "lines": [
+  {
+   "n": 1,
+   "speaker": "Guide",
+   "text": "Option A.",
+   "say": "Option A."
+  },
+  {
+   "n": 2,
+   "speaker": "Aria A",
+   "text": "It has. The justice system couldn't ignore us anymore. We didn't just expose a single politician; we triggered Operation Saffron, a highly coordinated global takedown. We do. We forced the system to work.",
+   "say": "It has. The justice system couldn't ignore us anymore. We didn't just expose a single politician; we triggered Operation Saffron, a highly coordinated global takedown. We do. We forced the system to work."
+  },
+  {
+   "n": 3,
+   "speaker": "Guide",
+   "text": "Option B.",
+   "say": "Option B."
+  },
+  {
+   "n": 4,
+   "speaker": "Aria B",
+   "text": "It has. The justice system couldn't ignore us anymore. We didn't just expose a single politician; we triggered Operation Saffron, a highly coordinated global takedown. We do. We forced the system to work.",
+   "say": "It has. The justice system couldn't ignore us anymore. We didn't just expose a single politician; we triggered Operation Saffron, a highly coordinated global takedown. We do. We forced the system to work."
+  },
+  {
+   "n": 5,
+   "speaker": "Guide",
+   "text": "Option C.",
+   "say": "Option C."
+  },
+  {
+   "n": 6,
+   "speaker": "Aria C",
+   "text": "It has. The justice system couldn't ignore us anymore. We didn't just expose a single politician; we triggered Operation Saffron, a highly coordinated global takedown. We do. We forced the system to work.",
+   "say": "It has. The justice system couldn't ignore us anymore. We didn't just expose a single politician; we triggered Operation Saffron, a highly coordinated global takedown. We do. We forced the system to work."
+  }
+ ]
+}
