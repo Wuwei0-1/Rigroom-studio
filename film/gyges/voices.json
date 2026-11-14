@@ -1,7 +1,27 @@
 {
- "Socrates": { "pitch": 98, "exaggeration": 0.55, "cfg": 0.4 },
- "Aria": { "pitch": 205, "exaggeration": 0.6, "cfg": 0.5 },
- "Cleon": { "pitch": 134, "exaggeration": 0.55, "cfg": 0.5 },
- "Julian": { "pitch": 114, "exaggeration": 0.4, "cfg": 0.45 },
- "News Anchor": { "pitch": 178, "exaggeration": 0.45, "cfg": 0.5 }
+ "Socrates": {
+  "pitch": 98,
+  "exaggeration": 0.55,
+  "cfg": 0.4
+ },
+ "Aria": {
+  "pitch": 175,
+  "exaggeration": 0.55,
+  "cfg": 0.5
+ },
+ "Cleon": {
+  "pitch": 134,
+  "exaggeration": 0.55,
+  "cfg": 0.5
+ },
+ "Julian": {
+  "pitch": 114,
+  "exaggeration": 0.4,
+  "cfg": 0.45
+ },
+ "News Anchor": {
+  "pitch": 178,
+  "exaggeration": 0.45,
+  "cfg": 0.5
+ }
 }
