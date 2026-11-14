@@ -1,0 +1,43 @@
+{
+ "title": "Aria voice audition 2",
+ "cast": [
+  {
+   "name": "Guide",
+   "about": "labels"
+  },
+  {
+   "name": "Aria D",
+   "about": "150 Hz"
+  },
+  {
+   "name": "Aria E",
+   "about": "166 Hz"
+  }
+ ],
+ "lines": [
+  {
+   "n": 1,
+   "speaker": "Guide",
+   "text": "Option D.",
+   "say": "Option D."
+  },
+  {
+   "n": 2,
+   "speaker": "Aria D",
+   "text": "It has. The justice system couldn't ignore us anymore. We didn't just expose a single politician; we triggered Operation Saffron, a highly coordinated global takedown. We do. We forced the system to work.",
+   "say": "It has. The justice system couldn't ignore us anymore. We didn't just expose a single politician; we triggered Operation Saffron, a highly coordinated global takedown. We do. We forced the system to work."
+  },
+  {
+   "n": 3,
+   "speaker": "Guide",
+   "text": "Option E.",
+   "say": "Option E."
+  },
+  {
+   "n": 4,
+   "speaker": "Aria E",
+   "text": "It has. The justice system couldn't ignore us anymore. We didn't just expose a single politician; we triggered Operation Saffron, a highly coordinated global takedown. We do. We forced the system to work.",
+   "say": "It has. The justice system couldn't ignore us anymore. We didn't just expose a single politician; we triggered Operation Saffron, a highly coordinated global takedown. We do. We forced the system to work."
+  }
+ ]
+}
