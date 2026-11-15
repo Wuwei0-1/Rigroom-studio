@@ -1,0 +1,31 @@
+{
+ "Socrates": {
+  "engine": "kokoro",
+  "voice": "bm_george",
+  "lang": "en-gb"
+ },
+ "Aria": {
+  "engine": "kokoro",
+  "voice": "af_heart"
+ },
+ "Cleon": {
+  "engine": "kokoro",
+  "voice": "am_puck"
+ },
+ "Julian": {
+  "engine": "kokoro",
+  "voice": "bm_lewis",
+  "lang": "en-gb"
+ },
+ "News Anchor": {
+  "engine": "kokoro",
+  "voice": "bf_emma",
+  "lang": "en-gb"
+ },
+ "Narrator": {
+  "engine": "kokoro",
+  "voice": "bf_emma",
+  "lang": "en-gb",
+  "speed": 0.95
+ }
+}
