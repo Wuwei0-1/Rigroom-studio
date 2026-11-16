@@ -1,0 +1,1 @@
+{"v": 2, "id": "gyges3-test", "kind": "shot", "source": "blend", "blend": "film/gyges3/test.blend", "frames": [0, 769], "fps": 24, "width": 1280, "samples": 16, "fade": 0.5, "audio": {"film": "gyges3", "cues": [{"id": "t01", "t": 1.0}, {"id": "t02", "t": 17.6419}]}}
