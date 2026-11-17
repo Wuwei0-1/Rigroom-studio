@@ -24,3 +24,12 @@ J approved the cartoon test. The whole script is made in four sequences (`seq1.b
 4. Explainer graphics (36, about ten minutes) cut in over the dialogue: `film/scenes.py` in the public repo. The render jobs skip the frames those graphics cover.
 5. Subtitles: `gyges3.srt`, timed to the voice audio, and burned into the film.
 6. Faces act the script: brows and mouth corners on their own bones, with expressions (worry, frown, clench, sorrow, wonder, warm smile...) keyed to each stage direction and line as it is said, and the camera on the face the narration describes.
+
+## Second pass (2026-11-17)
+
+Two narrated actions were not visible, so each now has its own close-up, and the stretch around it was re-rendered (`jobs/gyges3b-seq2-fix`, `jobs/gyges3b-seq3-fix`) and spliced into the sequence renders:
+
+- "ARIA's fingers dance across her slate": Aria leans in and her fingers tap over the slate on the table.
+- "JULIAN connects his slate to the central holographic projector": Julian leans across the table, lays his fingers on his slate while the line is spoken, and braces his other hand on his knee.
+
+The rebuilt `seq2.blend` and `seq3.blend` differ from the rendered ones outside those stretches by at most 0.17° of joint rotation.

@@ -1,0 +1,17 @@
+{
+ "v": 2,
+ "id": "gyges3b-seq3-fix",
+ "kind": "shot",
+ "source": "blend",
+ "blend": "film/gyges3/seq3.blend",
+ "frames": [
+  200,
+  329
+ ],
+ "fps": 24,
+ "width": 1280,
+ "samples": 8,
+ "step": 2,
+ "fade": 0,
+ "skip": []
+}
