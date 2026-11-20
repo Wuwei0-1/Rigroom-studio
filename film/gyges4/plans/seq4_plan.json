@@ -1,0 +1,614 @@
+{
+ "seq": 4,
+ "range": [
+  128,
+  157
+ ],
+ "frames": [
+  0,
+  8831
+ ],
+ "fps": 24,
+ "seconds": 368.0,
+ "cues": [
+  {
+   "id": "e128",
+   "t": 1.2
+  },
+  {
+   "id": "e130",
+   "t": 4.734
+  },
+  {
+   "id": "e131",
+   "t": 22.881
+  },
+  {
+   "id": "e132",
+   "t": 43.319
+  },
+  {
+   "id": "e133",
+   "t": 56.05
+  },
+  {
+   "id": "e134",
+   "t": 68.645
+  },
+  {
+   "id": "e135",
+   "t": 71.176
+  },
+  {
+   "id": "e136",
+   "t": 93.645
+  },
+  {
+   "id": "e137",
+   "t": 105.49
+  },
+  {
+   "id": "e138",
+   "t": 109.828
+  },
+  {
+   "id": "e139",
+   "t": 131.357
+  },
+  {
+   "id": "e140",
+   "t": 134.504
+  },
+  {
+   "id": "e141",
+   "t": 137.187
+  },
+  {
+   "id": "e142",
+   "t": 153.25
+  },
+  {
+   "id": "e143",
+   "t": 165.489
+  },
+  {
+   "id": "e144",
+   "t": 174.856
+  },
+  {
+   "id": "e145",
+   "t": 177.525
+  },
+  {
+   "id": "e146",
+   "t": 203.255
+  },
+  {
+   "id": "e147",
+   "t": 208.762
+  },
+  {
+   "id": "e148",
+   "t": 226.826
+  },
+  {
+   "id": "e149",
+   "t": 252.835
+  },
+  {
+   "id": "e150",
+   "t": 261.174
+  },
+  {
+   "id": "e151",
+   "t": 272.943
+  },
+  {
+   "id": "e152",
+   "t": 281.8
+  },
+  {
+   "id": "e153",
+   "t": 298.437
+  },
+  {
+   "id": "e154",
+   "t": 322.645
+  },
+  {
+   "id": "e155",
+   "t": 339.941
+  },
+  {
+   "id": "e156",
+   "t": 359.564
+  }
+ ],
+ "cuts": [
+  [
+   0.0,
+   "court wide"
+  ],
+  [
+   9.813105084745764,
+   "court gate"
+  ],
+  [
+   20.79124406779661,
+   "close Julian 3.20 -0.45 -1.79 floor"
+  ],
+  [
+   22.631,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   27.381,
+   "close Polemarchus 0.00 2.32 -0.00 seat:court"
+  ],
+  [
+   30.381,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   34.881,
+   "ots Socrates Polemarchus -0.0 2.5"
+  ],
+  [
+   37.881,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   47.819,
+   "close Polemarchus 0.00 2.32 -0.00 seat:court"
+  ],
+  [
+   50.819,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   55.800000000000004,
+   "close Glaucon 1.48 1.63 -0.82 seat:court"
+  ],
+  [
+   60.550000000000004,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   63.550000000000004,
+   "close Glaucon 1.48 1.63 -0.82 seat:court"
+  ],
+  [
+   68.39500000000001,
+   "court wide"
+  ],
+  [
+   70.92600000000002,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   75.67600000000002,
+   "close Glaucon 1.48 1.63 -0.82 seat:court"
+  ],
+  [
+   78.67600000000002,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   83.17600000000002,
+   "ots Socrates Glaucon 1.5 1.7"
+  ],
+  [
+   86.17600000000002,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   98.14500000000001,
+   "close Polemarchus 0.00 2.32 -0.00 seat:court"
+  ],
+  [
+   101.14500000000001,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   105.24000000000001,
+   "close Adeimantus 1.87 1.01 -1.19 seat:court"
+  ],
+  [
+   109.578,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   114.328,
+   "close Adeimantus 1.87 1.01 -1.19 seat:court"
+  ],
+  [
+   117.328,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   121.828,
+   "ots Socrates Adeimantus 2.0 1.1"
+  ],
+  [
+   124.828,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   131.357,
+   "close Julian 3.20 -0.45 -1.79 floor"
+  ],
+  [
+   136.93699999999998,
+   "court wide"
+  ],
+  [
+   152.99999999999997,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   157.74999999999997,
+   "close Glaucon 1.48 1.63 -0.82 seat:court"
+  ],
+  [
+   160.74999999999997,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   169.98899999999998,
+   "close Polemarchus 0.00 2.32 -0.00 seat:court"
+  ],
+  [
+   172.98899999999998,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   174.60599999999997,
+   "court wide"
+  ],
+  [
+   177.27499999999998,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   182.02499999999998,
+   "close Polemarchus 0.00 2.32 -0.00 seat:court"
+  ],
+  [
+   185.02499999999998,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   189.52499999999998,
+   "ots Socrates Polemarchus -0.0 2.5"
+  ],
+  [
+   192.52499999999998,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   197.02499999999998,
+   "court wide"
+  ],
+  [
+   200.02499999999998,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   203.00499999999997,
+   "close Glaucon 1.48 1.63 -0.82 seat:court"
+  ],
+  [
+   208.51199999999997,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   213.26199999999997,
+   "close Glaucon 1.48 1.63 -0.82 seat:court"
+  ],
+  [
+   216.26199999999997,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   220.76199999999997,
+   "ots Socrates Glaucon 1.5 1.7"
+  ],
+  [
+   223.76199999999997,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   231.32599999999996,
+   "close Polemarchus 0.00 2.32 -0.00 seat:court"
+  ],
+  [
+   234.32599999999996,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   238.82599999999996,
+   "ots Socrates Polemarchus -0.0 2.5"
+  ],
+  [
+   241.82599999999996,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   246.32599999999996,
+   "court wide"
+  ],
+  [
+   249.32599999999996,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   252.58499999999998,
+   "court wide"
+  ],
+  [
+   260.924,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   265.674,
+   "close Polemarchus 0.00 2.32 -0.00 seat:court"
+  ],
+  [
+   268.674,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   272.693,
+   "close Julian 3.20 -0.45 -1.79 floor"
+  ],
+  [
+   281.55,
+   "court wide"
+  ],
+  [
+   298.187,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   302.937,
+   "close Polemarchus 0.00 2.32 -0.00 seat:court"
+  ],
+  [
+   305.937,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   310.437,
+   "ots Socrates Polemarchus -0.0 2.5"
+  ],
+  [
+   313.437,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   317.937,
+   "court wide"
+  ],
+  [
+   320.937,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   327.14500000000004,
+   "close Polemarchus 0.00 2.32 -0.00 seat:court"
+  ],
+  [
+   330.14500000000004,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   334.64500000000004,
+   "ots Socrates Polemarchus -0.0 2.5"
+  ],
+  [
+   337.64500000000004,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   339.69100000000003,
+   "close Glaucon 1.48 1.63 -0.82 seat:court"
+  ],
+  [
+   344.44100000000003,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   347.44100000000003,
+   "close Glaucon 1.48 1.63 -0.82 seat:court"
+  ],
+  [
+   351.94100000000003,
+   "ots Glaucon Socrates 0.8 2.3"
+  ],
+  [
+   354.94100000000003,
+   "close Glaucon 1.48 1.63 -0.82 seat:court"
+  ],
+  [
+   359.564,
+   "close Julian 3.20 -0.45 -1.79 floor"
+  ]
+ ],
+ "items": [
+  [
+   128,
+   "Narrator",
+   1.2,
+   2.68
+  ],
+  [
+   130,
+   "Narrator",
+   4.73,
+   17.7
+  ],
+  [
+   131,
+   "Socrates",
+   22.88,
+   19.89
+  ],
+  [
+   132,
+   "Socrates",
+   43.32,
+   12.18
+  ],
+  [
+   133,
+   "Glaucon",
+   56.05,
+   12.04
+  ],
+  [
+   134,
+   "Narrator",
+   68.65,
+   2.08
+  ],
+  [
+   135,
+   "Socrates",
+   71.18,
+   21.92
+  ],
+  [
+   136,
+   "Socrates",
+   93.65,
+   11.29
+  ],
+  [
+   137,
+   "Adeimantus",
+   105.49,
+   3.79
+  ],
+  [
+   138,
+   "Socrates",
+   109.83,
+   20.98
+  ],
+  [
+   139,
+   "Narrator",
+   131.36,
+   2.7
+  ],
+  [
+   140,
+   "Julian",
+   134.5,
+   2.13
+  ],
+  [
+   141,
+   "Narrator",
+   137.19,
+   15.61
+  ],
+  [
+   142,
+   "Socrates",
+   153.25,
+   11.69
+  ],
+  [
+   143,
+   "Socrates",
+   165.49,
+   8.82
+  ],
+  [
+   144,
+   "Narrator",
+   174.86,
+   2.22
+  ],
+  [
+   145,
+   "Socrates",
+   177.52,
+   25.18
+  ],
+  [
+   146,
+   "Glaucon",
+   203.25,
+   4.96
+  ],
+  [
+   147,
+   "Socrates",
+   208.76,
+   17.51
+  ],
+  [
+   148,
+   "Socrates",
+   226.83,
+   25.46
+  ],
+  [
+   149,
+   "Narrator",
+   252.83,
+   7.89
+  ],
+  [
+   150,
+   "Socrates",
+   261.17,
+   11.22
+  ],
+  [
+   151,
+   "Julian",
+   272.94,
+   8.31
+  ],
+  [
+   152,
+   "Narrator",
+   281.8,
+   16.19
+  ],
+  [
+   153,
+   "Socrates",
+   298.44,
+   23.66
+  ],
+  [
+   154,
+   "Socrates",
+   322.65,
+   16.75
+  ],
+  [
+   155,
+   "Glaucon",
+   339.94,
+   19.07
+  ],
+  [
+   156,
+   "Narrator",
+   359.56,
+   6.04
+  ]
+ ],
+ "transitions": [
+  [
+   366.05,
+   "CUT TO:",
+   157
+  ]
+ ]
+}
