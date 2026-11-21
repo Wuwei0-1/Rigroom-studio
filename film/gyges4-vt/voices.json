@@ -1,0 +1,14 @@
+{
+ "Socrates": {
+  "exaggeration": 0.6,
+  "cfg": 0.4
+ },
+ "Thrasymachus": {
+  "exaggeration": 0.75,
+  "cfg": 0.35
+ },
+ "Narrator": {
+  "exaggeration": 0.45,
+  "cfg": 0.5
+ }
+}

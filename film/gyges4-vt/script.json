@@ -1,0 +1,68 @@
+{
+ "title": "voice test",
+ "cast": [
+  {
+   "name": "Socrates",
+   "about": ""
+  },
+  {
+   "name": "Thrasymachus",
+   "about": ""
+  }
+ ],
+ "lines": [
+  {
+   "n": 1,
+   "act": null,
+   "scene": null,
+   "speaker": "Thrasymachus",
+   "direction": null,
+   "text": "What folly, Socrates, has taken possession of you all? And why do you knock under to one another? If you want really to know what justice is, you should not only ask but answer. And I will not have you say that justice is duty or advantage or profit or gain or interest, for this sort of nonsense will not do for me. I must have clearness and accuracy.",
+   "before": [
+    "Thrasymachus plants himself in the middle of the semicircle. The young men shrink back on their couches."
+   ],
+   "say": "What folly, Socrates, has taken possession of you all? And why do you knock under to one another? If you want really to know what justice is, you should not only ask but answer. And I will not have you say that justice is duty or advantage or profit or gain or interest, for this sort of nonsense will not do for me. I must have clearness and accuracy."
+  },
+  {
+   "n": 2,
+   "act": null,
+   "scene": null,
+   "speaker": "Socrates",
+   "direction": null,
+   "text": "Thrasymachus, don't be hard upon us. If we were seeking a piece of gold, you would not imagine that we were knocking under to one another. And we are seeking justice, a thing more precious than many pieces of gold. Answer us yourself.",
+   "before": [],
+   "say": "Thra-simmakus, don't be hard upon us. If we were seeking a piece of gold, you would not imagine that we were knocking under to one another. And we are seeking justice, a thing more precious than many pieces of gold. Answer us yourself."
+  },
+  {
+   "n": 3,
+   "act": null,
+   "scene": null,
+   "speaker": "Thrasymachus",
+   "direction": null,
+   "text": "Listen, then. I proclaim that justice is nothing else than the interest of the stronger. (a beat) And now why do you not praise me? But of course you won't.",
+   "before": [],
+   "say": "Listen, then. I proclaim that justice is nothing else than the interest of the stronger. ... And now why do you not praise me? But of course you won't."
+  },
+  {
+   "n": 4,
+   "act": null,
+   "scene": null,
+   "speaker": "Socrates",
+   "direction": null,
+   "text": "Let me first understand you.",
+   "before": [],
+   "say": "Let me first understand you."
+  },
+  {
+   "n": 5,
+   "act": null,
+   "scene": null,
+   "speaker": "Thrasymachus",
+   "direction": null,
+   "text": "The different forms of government make laws, democratical, aristocratical, tyrannical, with a view to their several interests. And these laws, made by them for their own interests, are the justice which they deliver to their subjects. Him who transgresses them they punish as a breaker of the law, and unjust. Everywhere there is one principle of justice, which is the interest of the stronger.",
+   "before": [],
+   "say": "The different forms of government make laws, democratical, aristocratical, tyrannical, with a view to their several interests. And these laws, made by them for their own interests, are the justice which they deliver to their subjects. Him who transgresses them they punish as a breaker of the law, and unjust. Everywhere there is one principle of justice, which is the interest of the stronger."
+  }
+ ],
+ "after": []
+}
