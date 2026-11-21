@@ -1,0 +1,865 @@
+{
+ "seq": 1,
+ "range": [
+  0,
+  66
+ ],
+ "frames": [
+  0,
+  9857
+ ],
+ "fps": 24,
+ "seconds": 410.75,
+ "cues": [
+  {
+   "id": "e007",
+   "t": 1.8
+  },
+  {
+   "id": "e008",
+   "t": 11.657
+  },
+  {
+   "id": "e011",
+   "t": 25.347
+  },
+  {
+   "id": "e012",
+   "t": 29.956
+  },
+  {
+   "id": "e014",
+   "t": 41.571
+  },
+  {
+   "id": "e019",
+   "t": 56.212
+  },
+  {
+   "id": "e020",
+   "t": 62.917
+  },
+  {
+   "id": "e021",
+   "t": 72.881
+  },
+  {
+   "id": "e022",
+   "t": 75.97
+  },
+  {
+   "id": "e023",
+   "t": 82.892
+  },
+  {
+   "id": "e024",
+   "t": 94.272
+  },
+  {
+   "id": "e025",
+   "t": 99.333
+  },
+  {
+   "id": "e026",
+   "t": 102.994
+  },
+  {
+   "id": "e027",
+   "t": 105.003
+  },
+  {
+   "id": "e028",
+   "t": 111.782
+  },
+  {
+   "id": "e029",
+   "t": 115.027
+  },
+  {
+   "id": "e030",
+   "t": 123.235
+  },
+  {
+   "id": "e031",
+   "t": 127.096
+  },
+  {
+   "id": "e034",
+   "t": 133.395
+  },
+  {
+   "id": "e035",
+   "t": 147.88
+  },
+  {
+   "id": "e037",
+   "t": 162.13
+  },
+  {
+   "id": "e038",
+   "t": 181.069
+  },
+  {
+   "id": "e039",
+   "t": 194.108
+  },
+  {
+   "id": "e040",
+   "t": 217.565
+  },
+  {
+   "id": "e041",
+   "t": 220.532
+  },
+  {
+   "id": "e042",
+   "t": 230.383
+  },
+  {
+   "id": "e043",
+   "t": 241.43
+  },
+  {
+   "id": "e044",
+   "t": 268.824
+  },
+  {
+   "id": "e045",
+   "t": 283.792
+  },
+  {
+   "id": "e046",
+   "t": 301.625
+  },
+  {
+   "id": "e047",
+   "t": 305.226
+  },
+  {
+   "id": "e048",
+   "t": 310.298
+  },
+  {
+   "id": "e049",
+   "t": 319.07
+  },
+  {
+   "id": "e050",
+   "t": 322.061
+  },
+  {
+   "id": "e051",
+   "t": 323.827
+  },
+  {
+   "id": "e052",
+   "t": 328.671
+  },
+  {
+   "id": "e053",
+   "t": 334.457
+  },
+  {
+   "id": "e056",
+   "t": 347.509
+  },
+  {
+   "id": "e057",
+   "t": 350.702
+  },
+  {
+   "id": "e058",
+   "t": 355.198
+  },
+  {
+   "id": "e059",
+   "t": 360.111
+  },
+  {
+   "id": "e060",
+   "t": 362.101
+  },
+  {
+   "id": "e061",
+   "t": 383.513
+  },
+  {
+   "id": "e062",
+   "t": 385.31
+  },
+  {
+   "id": "e063",
+   "t": 393.347
+  },
+  {
+   "id": "e065",
+   "t": 400.702
+  }
+ ],
+ "cuts": [
+  [
+   0.0,
+   "lounge table"
+  ],
+  [
+   6.014824675324675,
+   "close Julian 1.49 90.11 -1.08 seat:lounge"
+  ],
+  [
+   11.657,
+   "lounge julian"
+  ],
+  [
+   18.873464646464647,
+   "close Julian 1.49 90.11 -1.08 seat:lounge"
+  ],
+  [
+   21.56639393939394,
+   "lounge wide"
+  ],
+  [
+   24.746999999999996,
+   "piraeus wide"
+  ],
+  [
+   41.571,
+   "piraeus harbour"
+  ],
+  [
+   47.571,
+   "piraeus julian"
+  ],
+  [
+   56.211999999999996,
+   "piraeus square"
+  ],
+  [
+   58.68403883495145,
+   "follow Glaucon piraeus"
+  ],
+  [
+   61.72044660194174,
+   "close Socrates 4.80 -90.26 -2.56 stand"
+  ],
+  [
+   67.9873353293413,
+   "piraeus group"
+  ],
+  [
+   69.43946706586826,
+   "follow Servant Boy piraeus"
+  ],
+  [
+   72.631,
+   "close Servant Boy 3.79 -90.29 0.79 stand"
+  ],
+  [
+   75.97,
+   "piraeus group"
+  ],
+  [
+   78.25478571428572,
+   "close Glaucon 5.27 -90.54 -2.16 stand"
+  ],
+  [
+   80.04614285714285,
+   "follow Niceratus piraeus"
+  ],
+  [
+   82.642,
+   "close Polemarchus 5.38 -89.42 -1.04 stand"
+  ],
+  [
+   87.392,
+   "close Socrates 4.80 -90.26 -2.56 stand"
+  ],
+  [
+   90.392,
+   "close Polemarchus 5.38 -89.42 -1.04 stand"
+  ],
+  [
+   94.02199999999999,
+   "close Socrates 4.80 -90.26 -2.56 stand"
+  ],
+  [
+   99.083,
+   "close Polemarchus 5.38 -89.42 -1.04 stand"
+  ],
+  [
+   102.744,
+   "close Glaucon 5.27 -90.54 -2.16 stand"
+  ],
+  [
+   104.753,
+   "close Adeimantus 6.15 -90.28 -1.69 stand"
+  ],
+  [
+   111.532,
+   "close Socrates 4.80 -90.26 -2.56 stand"
+  ],
+  [
+   114.777,
+   "close Polemarchus 5.38 -89.42 -1.04 stand"
+  ],
+  [
+   122.985,
+   "close Glaucon 5.27 -90.54 -2.16 stand"
+  ],
+  [
+   127.096,
+   "piraeus hill"
+  ],
+  [
+   128.9913043478261,
+   "close Socrates 4.80 -90.26 -2.56 stand"
+  ],
+  [
+   132.79500000000002,
+   "court wide"
+  ],
+  [
+   147.88,
+   "close Cephalus 0.00 2.32 -0.00 seat:court"
+  ],
+  [
+   152.88636363636365,
+   "close Euthydemus -1.48 1.63 0.82 seat:court"
+  ],
+  [
+   155.34454545454545,
+   "close Thrasymachus -2.92 -0.55 1.57 seat:court"
+  ],
+  [
+   159.72363636363636,
+   "close Charmantides -2.07 0.29 1.55 seat:court"
+  ],
+  [
+   161.88,
+   "close Cephalus 0.00 2.32 -0.00 seat:court"
+  ],
+  [
+   166.63,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   169.63,
+   "close Cephalus 0.00 2.32 -0.00 seat:court"
+  ],
+  [
+   174.13,
+   "ots Cephalus Socrates 0.8 2.2"
+  ],
+  [
+   177.13,
+   "close Cephalus 0.00 2.32 -0.00 seat:court"
+  ],
+  [
+   180.819,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   185.569,
+   "close Cephalus 0.00 2.32 -0.00 seat:court"
+  ],
+  [
+   188.569,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   193.858,
+   "close Cephalus 0.00 2.32 -0.00 seat:court"
+  ],
+  [
+   198.608,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   201.608,
+   "close Cephalus 0.00 2.32 -0.00 seat:court"
+  ],
+  [
+   206.108,
+   "ots Cephalus Socrates 0.8 2.2"
+  ],
+  [
+   209.108,
+   "close Cephalus 0.00 2.32 -0.00 seat:court"
+  ],
+  [
+   213.608,
+   "court wide"
+  ],
+  [
+   216.608,
+   "close Cephalus 0.00 2.32 -0.00 seat:court"
+  ],
+  [
+   225.032,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   228.032,
+   "close Cephalus 0.00 2.32 -0.00 seat:court"
+  ],
+  [
+   230.133,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   234.883,
+   "close Cephalus 0.00 2.32 -0.00 seat:court"
+  ],
+  [
+   237.883,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   241.18,
+   "close Cephalus 0.00 2.32 -0.00 seat:court"
+  ],
+  [
+   245.93,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   248.93,
+   "close Cephalus 0.00 2.32 -0.00 seat:court"
+  ],
+  [
+   253.43,
+   "ots Cephalus Socrates 0.8 2.2"
+  ],
+  [
+   256.43,
+   "close Cephalus 0.00 2.32 -0.00 seat:court"
+  ],
+  [
+   260.93,
+   "court wide"
+  ],
+  [
+   263.93,
+   "close Cephalus 0.00 2.32 -0.00 seat:court"
+  ],
+  [
+   273.324,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   276.324,
+   "close Cephalus 0.00 2.32 -0.00 seat:court"
+  ],
+  [
+   283.54200000000003,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   288.29200000000003,
+   "close Cephalus 0.00 2.32 -0.00 seat:court"
+  ],
+  [
+   291.29200000000003,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   295.79200000000003,
+   "ots Socrates Cephalus -0.0 2.4"
+  ],
+  [
+   298.79200000000003,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   301.37500000000006,
+   "close Cephalus 0.00 2.32 -0.00 seat:court"
+  ],
+  [
+   304.97600000000006,
+   "close Polemarchus -0.79 2.11 0.40 seat:court"
+  ],
+  [
+   310.04800000000006,
+   "close Cephalus 0.00 2.32 -0.00 seat:court"
+  ],
+  [
+   318.82000000000005,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   321.81100000000004,
+   "follow Cephalus court"
+  ],
+  [
+   325.9629722222223,
+   "court chair"
+  ],
+  [
+   328.42100000000005,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   334.20700000000005,
+   "close Polemarchus 0.00 2.32 -0.00 seat:court"
+  ],
+  [
+   338.95700000000005,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   341.95700000000005,
+   "close Polemarchus 0.00 2.32 -0.00 seat:court"
+  ],
+  [
+   347.25900000000007,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   350.45200000000006,
+   "close Polemarchus 0.00 2.32 -0.00 seat:court"
+  ],
+  [
+   354.94800000000004,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   359.86100000000005,
+   "close Polemarchus 0.00 2.32 -0.00 seat:court"
+  ],
+  [
+   361.85100000000006,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   366.60100000000006,
+   "close Polemarchus 0.00 2.32 -0.00 seat:court"
+  ],
+  [
+   369.60100000000006,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   374.10100000000006,
+   "ots Socrates Polemarchus -0.0 2.4"
+  ],
+  [
+   377.10100000000006,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   383.26300000000003,
+   "close Polemarchus 0.00 2.32 -0.00 seat:court"
+  ],
+  [
+   385.06000000000006,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   393.09700000000004,
+   "close Polemarchus 0.00 2.32 -0.00 seat:court"
+  ],
+  [
+   400.70200000000006,
+   "close Thrasymachus -2.92 -0.55 1.57 seat:court"
+  ]
+ ],
+ "items": [
+  [
+   7,
+   "Narrator",
+   1.8,
+   9.41
+  ],
+  [
+   8,
+   "Narrator",
+   11.66,
+   12.34
+  ],
+  [
+   11,
+   "Narrator",
+   25.35,
+   4.16
+  ],
+  [
+   12,
+   "Narrator",
+   29.96,
+   11.16
+  ],
+  [
+   14,
+   "Socrates",
+   41.57,
+   14.09
+  ],
+  [
+   19,
+   "Narrator",
+   56.21,
+   6.25
+  ],
+  [
+   20,
+   "Narrator",
+   62.92,
+   9.51
+  ],
+  [
+   21,
+   "Servant Boy",
+   72.88,
+   2.54
+  ],
+  [
+   22,
+   "Narrator",
+   75.97,
+   6.47
+  ],
+  [
+   23,
+   "Polemarchus",
+   82.89,
+   10.83
+  ],
+  [
+   24,
+   "Socrates",
+   94.27,
+   4.51
+  ],
+  [
+   25,
+   "Polemarchus",
+   99.33,
+   3.11
+  ],
+  [
+   26,
+   "Glaucon",
+   102.99,
+   1.46
+  ],
+  [
+   27,
+   "Adeimantus",
+   105.0,
+   6.23
+  ],
+  [
+   28,
+   "Socrates",
+   111.78,
+   2.69
+  ],
+  [
+   29,
+   "Polemarchus",
+   115.03,
+   7.66
+  ],
+  [
+   30,
+   "Glaucon",
+   123.23,
+   3.31
+  ],
+  [
+   31,
+   "Narrator",
+   127.1,
+   5.45
+  ],
+  [
+   34,
+   "Narrator",
+   133.4,
+   14.04
+  ],
+  [
+   35,
+   "Narrator",
+   147.88,
+   13.8
+  ],
+  [
+   37,
+   "Cephalus",
+   162.13,
+   18.39
+  ],
+  [
+   38,
+   "Socrates",
+   181.07,
+   12.49
+  ],
+  [
+   39,
+   "Cephalus",
+   194.11,
+   22.91
+  ],
+  [
+   40,
+   "Narrator",
+   217.56,
+   2.52
+  ],
+  [
+   41,
+   "Cephalus",
+   220.53,
+   9.3
+  ],
+  [
+   42,
+   "Socrates",
+   230.38,
+   10.5
+  ],
+  [
+   43,
+   "Cephalus",
+   241.43,
+   26.84
+  ],
+  [
+   44,
+   "Cephalus",
+   268.82,
+   14.42
+  ],
+  [
+   45,
+   "Socrates",
+   283.79,
+   17.28
+  ],
+  [
+   46,
+   "Cephalus",
+   301.63,
+   3.05
+  ],
+  [
+   47,
+   "Polemarchus",
+   305.23,
+   4.52
+  ],
+  [
+   48,
+   "Cephalus",
+   310.3,
+   8.22
+  ],
+  [
+   49,
+   "Socrates",
+   319.07,
+   2.44
+  ],
+  [
+   50,
+   "Cephalus",
+   322.06,
+   1.22
+  ],
+  [
+   51,
+   "Narrator",
+   323.83,
+   4.39
+  ],
+  [
+   52,
+   "Socrates",
+   328.67,
+   5.24
+  ],
+  [
+   53,
+   "Polemarchus",
+   334.46,
+   12.5
+  ],
+  [
+   56,
+   "Socrates",
+   347.51,
+   2.64
+  ],
+  [
+   57,
+   "Polemarchus",
+   350.7,
+   3.95
+  ],
+  [
+   58,
+   "Socrates",
+   355.2,
+   4.36
+  ],
+  [
+   59,
+   "Polemarchus",
+   360.11,
+   1.44
+  ],
+  [
+   60,
+   "Socrates",
+   362.1,
+   20.86
+  ],
+  [
+   61,
+   "Polemarchus",
+   383.51,
+   1.25
+  ],
+  [
+   62,
+   "Socrates",
+   385.31,
+   7.49
+  ],
+  [
+   63,
+   "Polemarchus",
+   393.35,
+   6.8
+  ],
+  [
+   65,
+   "Narrator",
+   400.7,
+   7.69
+  ]
+ ],
+ "transitions": [
+  [
+   1.2,
+   "FADE IN:",
+   1
+  ],
+  [
+   24.45,
+   "DISSOLVE TO:",
+   9
+  ],
+  [
+   133.0,
+   "CUT TO:",
+   32
+  ],
+  [
+   408.84,
+   "CUT TO:",
+   66
+  ]
+ ]
+}

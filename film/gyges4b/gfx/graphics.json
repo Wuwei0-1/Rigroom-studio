@@ -1,0 +1,597 @@
+[
+ {
+  "id": "g01",
+  "scene": "laws",
+  "seq": 2,
+  "first": 75,
+  "last": 75,
+  "t0": 72.37,
+  "t1": 83.99,
+  "beats": {
+   "tyrant": 1.334,
+   "rich": 2.7,
+   "many": 3.894,
+   "laws": 5.49,
+   "bends": 8.674
+  }
+ },
+ {
+  "id": "g02",
+  "scene": "ring",
+  "seq": 3,
+  "first": 108,
+  "last": 111,
+  "t0": 94.85,
+  "t1": 150.73,
+  "beats": {
+   "storm": 2.755,
+   "quake": 3.37,
+   "split": 3.831,
+   "shepherd": 5.216,
+   "chasm": 7.322,
+   "horse": 8.435,
+   "doors": 9.409,
+   "inside": 10.07,
+   "body": 11.253,
+   "ring": 13.325,
+   "took": 15.811,
+   "reascended": 17.525,
+   "king": 21.902,
+   "collet": 24.858,
+   "invisible": 27.704,
+   "speak": 30.477,
+   "outwards": 35.369,
+   "reappeared": 36.055,
+   "court": 39.682,
+   "queen": 40.715,
+   "slain": 41.677,
+   "crowned": 43.242,
+   "messengers": 46.93,
+   "seduced": 50.103,
+   "slew": 53.367,
+   "kingdom": 54.678
+  }
+ },
+ {
+  "id": "g03",
+  "scene": "city",
+  "seq": 4,
+  "first": 141,
+  "last": 141,
+  "t0": 125.53,
+  "t1": 141.84,
+  "beats": {
+   "base": 3.899,
+   "silver": 8.909,
+   "gold": 12.02,
+   "lines": 12.575
+  }
+ },
+ {
+  "id": "g04",
+  "scene": "leontius",
+  "seq": 4,
+  "first": 149,
+  "last": 149,
+  "t0": 241.18,
+  "t1": 249.76,
+  "beats": {
+   "young": 0.413,
+   "hands": 1.89,
+   "running": 3.379,
+   "fist": 6.047
+  }
+ },
+ {
+  "id": "g05",
+  "scene": "soul",
+  "seq": 4,
+  "first": 152,
+  "last": 152,
+  "t0": 261.29,
+  "t1": 278.17,
+  "beats": {
+   "figure": 2.326,
+   "reason": 3.194,
+   "spirit": 6.005,
+   "appetite": 7.965,
+   "steadily": 12.305,
+   "surges": 14.24,
+   "shatters": 15.737
+  }
+ },
+ {
+  "id": "g06",
+  "scene": "ship",
+  "seq": 5,
+  "first": 173,
+  "last": 174,
+  "t0": 112.48,
+  "t1": 147.32,
+  "beats": {
+   "ship": 0.423,
+   "sailors": 2.025,
+   "captain": 3.176,
+   "wheel": 4.728,
+   "wine": 5.619,
+   "bow": 7.568,
+   "stars": 9.309,
+   "laughs": 11.392,
+   "chain": 12.788,
+   "mutiny": 16.49,
+   "stores": 19.847,
+   "sailor": 22.828,
+   "pilot": 24.644,
+   "seaman": 25.92,
+   "true": 27.215,
+   "prater": 31.473,
+   "gazer": 32.2,
+   "good": 33.25,
+   "drug": 1000000000.0,
+   "flatter": 1000000000.0,
+   "laugh2": 1000000000.0,
+   "feed": 1000000000.0
+  }
+ },
+ {
+  "id": "g07",
+  "scene": "line",
+  "seq": 5,
+  "first": 188,
+  "last": 188,
+  "t0": 207.42,
+  "t1": 223.47,
+  "beats": {
+   "line": 0.734,
+   "four": 2.389,
+   "shadows": 3.824,
+   "things": 6.287,
+   "diagrams": 8.672,
+   "forms": 11.866,
+   "sun": 14.371
+  }
+ },
+ {
+  "id": "g08",
+  "scene": "cave",
+  "seq": 6,
+  "first": 197,
+  "last": 207,
+  "t0": 38.28,
+  "t1": 173.51,
+  "beats": {
+   "den": 0.721,
+   "prisoners": 1.91,
+   "chained": 2.798,
+   "faces": 4.375,
+   "path": 6.99,
+   "wall": 7.915,
+   "fire": 9.438,
+   "carry": 11.678,
+   "shadows": 14.849,
+   "talking": 27.076,
+   "own": 36.52,
+   "echo": 43.752,
+   "naming": 57.705,
+   "laurel": 60.207,
+   "honours": 63.095,
+   "predict": 73.513,
+   "puppeteers": 1000000000.0,
+   "screen": 1000000000.0,
+   "prizes": 1000000000.0,
+   "digital": 1000000000.0,
+   "released": 76.923,
+   "stand": 78.77,
+   "turn": 79.509,
+   "light": 81.771,
+   "pains": 83.855,
+   "freed": 94.165,
+   "staggers": 95.084,
+   "dragged": 97.765,
+   "opening": 100.231,
+   "sun1": 107.094,
+   "sh2": 112.837,
+   "refl": 114.108,
+   "objects": 117.453,
+   "moon": 119.162,
+   "heaven": 120.652,
+   "last": 121.745,
+   "kneels": 128.782,
+   "stars": 132.75,
+   "rising": 134.02
+  }
+ },
+ {
+  "id": "g09",
+  "scene": "decline",
+  "seq": 7,
+  "first": 227,
+  "last": 228,
+  "t0": 34.97,
+  "t1": 69.75,
+  "beats": {
+   "staircase": 1.655,
+   "darkness": 2.423,
+   "soldier": 4.262,
+   "coins": 7.64,
+   "crowd": 9.326,
+   "shouting": 9.921,
+   "last": 11.762,
+   "wolf": 13.376,
+   "champion": 16.304,
+   "protector": 26.015,
+   "entrails": 30.025,
+   "wolf2": 32.332
+  }
+ },
+ {
+  "id": "g10",
+  "scene": "beast",
+  "seq": 7,
+  "first": 233,
+  "last": 234,
+  "t0": 117.28,
+  "t1": 156.67,
+  "beats": {
+   "beast": 3.296,
+   "lion": 4.588,
+   "man": 5.15,
+   "fold": 6.229,
+   "skin": 8.048,
+   "strain": 11.426,
+   "feast": 18.527,
+   "strengthen": 20.327,
+   "starve": 21.94,
+   "just": 26.457,
+   "mastery": 28.373,
+   "husbandman": 31.773,
+   "wild": 35.117,
+   "ally": 38.39,
+   "machines": 1000000000.0,
+   "feed": 1000000000.0,
+   "quarter": 1000000000.0
+  }
+ },
+ {
+  "id": "g11",
+  "scene": "er",
+  "seq": 7,
+  "first": 247,
+  "last": 255,
+  "t0": 248.47,
+  "t1": 381.58,
+  "beats": {
+   "dead": 1.7,
+   "unmarked": 3.137,
+   "pyre": 5.327,
+   "twelfth": 6.454,
+   "torch": 7.543,
+   "eyes": 9.033,
+   "journey": 20.489,
+   "openings": 24.424,
+   "heaven": 26.671,
+   "judges": 27.846,
+   "meadow": 31.523,
+   "column": 32.35,
+   "rainbow": 34.826,
+   "spindle": 35.712,
+   "fates": 38.461,
+   "choose": 41.461,
+   "prophet": 42.878,
+   "lots": 43.946,
+   "samples": 45.666,
+   "virtue": 54.975,
+   "resp": 55.694,
+   "god": 57.43,
+   "first": 60.161,
+   "crown": 62.765,
+   "greatest": 67.108,
+   "folly": 69.894,
+   "saw": 73.719,
+   "beat": 76.316,
+   "blamed": 78.223,
+   "habit": 85.828,
+   "philosophy": 87.462,
+   "last": 88.89,
+   "traveller": 90.242,
+   "smiles": 93.496,
+   "odysseus": 97.034,
+   "private": 107.184,
+   "neglected": 111.47,
+   "delighted": 116.95,
+   "river": 121.047,
+   "forgot": 124.035,
+   "air": 125.615,
+   "morning": 128.412,
+   "pyre2": 132.084
+  }
+ },
+ {
+  "id": "n01",
+  "scene": "deposit",
+  "seq": 1,
+  "first": 45,
+  "last": 45,
+  "t0": 283.49,
+  "t1": 301.47,
+  "beats": {
+   "truth": 5.21,
+   "debts": 6.113,
+   "deposited": 10.668,
+   "mind": 14.021,
+   "give": 16.087
+  }
+ },
+ {
+  "id": "n02",
+  "scene": "friends",
+  "seq": 1,
+  "first": 53,
+  "last": 53,
+  "t0": 334.16,
+  "t1": 347.36,
+  "beats": {
+   "friend": 2.877,
+   "evil": 5.704,
+   "enemy": 6.73,
+   "justice": 9.515
+  }
+ },
+ {
+  "id": "n03",
+  "scene": "craft",
+  "seq": 2,
+  "first": 77,
+  "last": 77,
+  "t0": 83.74,
+  "t1": 115.98,
+  "beats": {
+   "physician": 3.384,
+   "patient": 18.608,
+   "pilot": 8.683,
+   "sailor": 11.658,
+   "science": 25.251
+  }
+ },
+ {
+  "id": "n04",
+  "scene": "shepherd",
+  "seq": 2,
+  "first": 81,
+  "last": 81,
+  "t0": 125.96,
+  "t1": 144.6,
+  "beats": {
+   "shepherd": 4.345,
+   "fattens": 6.609,
+   "master": 10.618,
+   "rulers": 12.319
+  }
+ },
+ {
+  "id": "n05",
+  "scene": "band",
+  "seq": 2,
+  "first": 89,
+  "last": 91,
+  "t0": 220.74,
+  "t1": 253.83,
+  "beats": {
+   "robbers": 4.181,
+   "injured": 9.202,
+   "divisions": 14.705,
+   "harmony": 18.041,
+   "city": 23.467,
+   "enemy": 31.977
+  }
+ },
+ {
+  "id": "n06",
+  "scene": "goods",
+  "seq": 3,
+  "first": 103,
+  "last": 104,
+  "t0": 22.18,
+  "t1": 51.24,
+  "beats": {
+   "own": 3.625,
+   "both": 6.998,
+   "rewards": 14.865,
+   "which": 17.46,
+   "highest": 20.715
+  }
+ },
+ {
+  "id": "n07",
+  "scene": "pigs",
+  "seq": 4,
+  "first": 131,
+  "last": 135,
+  "t0": 17.06,
+  "t1": 87.96,
+  "beats": {
+   "wants": 4.397,
+   "farmer": 11.63,
+   "loaves": 21.693,
+   "pigs": 36.607,
+   "sofas": 41.3,
+   "land": 66.296,
+   "war": 67.928,
+   "guardians": 69.623
+  }
+ },
+ {
+  "id": "n08",
+  "scene": "lives",
+  "seq": 3,
+  "first": 117,
+  "last": 117,
+  "t0": 189.45,
+  "t1": 218.8,
+  "beats": {
+   "unjust": 5.679,
+   "reputation": 7.731,
+   "just": 10.453,
+   "worst": 13.313,
+   "scourged": 17.347,
+   "seem": 26.586
+  }
+ },
+ {
+  "id": "n09",
+  "scene": "metals",
+  "seq": 4,
+  "first": 138,
+  "last": 138,
+  "t0": 104.0,
+  "t1": 125.67,
+  "beats": {
+   "tale": 0.671,
+   "brothers": 5.713,
+   "gold": 11.954,
+   "silver": 13.759,
+   "brass": 19.983
+  }
+ },
+ {
+  "id": "n10",
+  "scene": "virtues",
+  "seq": 4,
+  "first": 143,
+  "last": 143,
+  "t0": 153.83,
+  "t1": 163.34,
+  "beats": {
+   "wisdom": 0.3,
+   "courage": 2.22,
+   "temperance": 4.017,
+   "justice": 7.703
+  }
+ },
+ {
+  "id": "n11",
+  "scene": "thirst",
+  "seq": 4,
+  "first": 147,
+  "last": 147,
+  "t0": 197.11,
+  "t1": 215.32,
+  "beats": {
+   "thirsty": 1.261,
+   "drink": 2.64,
+   "forbidding": 6.693,
+   "rational": 9.939,
+   "appetitive": 15.289,
+   "third": 17.124
+  }
+ },
+ {
+  "id": "n12",
+  "scene": "waves",
+  "seq": 5,
+  "first": 165,
+  "last": 165,
+  "t0": 27.02,
+  "t1": 45.77,
+  "beats": {
+   "waves": 1.648,
+   "first": 3.128,
+   "second": 10.593,
+   "third": 15.972
+  }
+ },
+ {
+  "id": "n13",
+  "scene": "kings",
+  "seq": 5,
+  "first": 167,
+  "last": 167,
+  "t0": 49.28,
+  "t1": 65.21,
+  "beats": {
+   "philosophers": 0.652,
+   "kings": 1.608,
+   "meet": 8.861,
+   "rest": 11.207,
+   "evils": 12.145
+  }
+ },
+ {
+  "id": "n14",
+  "scene": "sun",
+  "seq": 5,
+  "first": 180,
+  "last": 180,
+  "t0": 167.47,
+  "t1": 201.73,
+  "beats": {
+   "sun": 11.281,
+   "author": 15.493,
+   "child": 18.25,
+   "mind": 23.67,
+   "truth": 24.766,
+   "exceeds": 30.94
+  }
+ },
+ {
+  "id": "n15",
+  "scene": "turning",
+  "seq": 6,
+  "first": 213,
+  "last": 213,
+  "t0": 218.99,
+  "t1": 237.69,
+  "beats": {
+   "professors": 0.783,
+   "blind": 7.627,
+   "already": 11.21,
+   "wrong": 13.825,
+   "turning": 16.704
+  }
+ },
+ {
+  "id": "n16",
+  "scene": "slave",
+  "seq": 7,
+  "first": 230,
+  "last": 230,
+  "t0": 69.9,
+  "t1": 88.33,
+  "beats": {
+   "tyrant": 1.636,
+   "slave": 4.546,
+   "desires": 5.798,
+   "poor": 11.653,
+   "fear": 17.375
+  }
+ },
+ {
+  "id": "n17",
+  "scene": "pattern",
+  "seq": 7,
+  "first": 238,
+  "last": 238,
+  "t0": 163.66,
+  "t1": 181.8,
+  "beats": {
+   "pattern": 1.647,
+   "behold": 4.266,
+   "house": 6.927,
+   "exists": 9.414
+  }
+ },
+ {
+  "id": "n18",
+  "scene": "ringx",
+  "seq": 7,
+  "first": 241,
+  "last": 241,
+  "t0": 202.02,
+  "t1": 213.04,
+  "beats": {
+   "just": 1.602,
+   "ring": 3.377,
+   "helmet": 9.205
+  }
+ }
+]

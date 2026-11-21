@@ -1,0 +1,566 @@
+{
+ "seq": 2,
+ "range": [
+  67,
+  97
+ ],
+ "frames": [
+  0,
+  7313
+ ],
+ "fps": 24,
+ "seconds": 304.75,
+ "cues": [
+  {
+   "id": "e069",
+   "t": 1.2
+  },
+  {
+   "id": "e070",
+   "t": 7.431
+  },
+  {
+   "id": "e071",
+   "t": 26.131
+  },
+  {
+   "id": "e072",
+   "t": 40.739
+  },
+  {
+   "id": "e073",
+   "t": 49.759
+  },
+  {
+   "id": "e074",
+   "t": 52.676
+  },
+  {
+   "id": "e075",
+   "t": 72.668
+  },
+  {
+   "id": "e077",
+   "t": 84.043
+  },
+  {
+   "id": "e078",
+   "t": 116.134
+  },
+  {
+   "id": "e079",
+   "t": 118.94
+  },
+  {
+   "id": "e080",
+   "t": 121.665
+  },
+  {
+   "id": "e081",
+   "t": 126.256
+  },
+  {
+   "id": "e082",
+   "t": 144.755
+  },
+  {
+   "id": "e083",
+   "t": 147.891
+  },
+  {
+   "id": "e084",
+   "t": 167.474
+  },
+  {
+   "id": "e085",
+   "t": 195.976
+  },
+  {
+   "id": "e087",
+   "t": 201.901
+  },
+  {
+   "id": "e088",
+   "t": 218.332
+  },
+  {
+   "id": "e089",
+   "t": 221.044
+  },
+  {
+   "id": "e090",
+   "t": 231.892
+  },
+  {
+   "id": "e091",
+   "t": 234.069
+  },
+  {
+   "id": "e092",
+   "t": 253.979
+  },
+  {
+   "id": "e093",
+   "t": 265.222
+  },
+  {
+   "id": "e094",
+   "t": 269.93
+  },
+  {
+   "id": "e095",
+   "t": 291.173
+  },
+  {
+   "id": "e096",
+   "t": 296.544
+  }
+ ],
+ "cuts": [
+  [
+   0.0,
+   "close Thrasymachus 0.44 0.08 2.74 stand"
+  ],
+  [
+   11.931000000000001,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   14.931000000000001,
+   "close Thrasymachus 0.44 0.08 2.74 stand"
+  ],
+  [
+   19.431,
+   "ots Thrasymachus Socrates 0.8 2.2"
+  ],
+  [
+   22.431,
+   "close Thrasymachus 0.44 0.08 2.74 stand"
+  ],
+  [
+   25.881,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   30.631,
+   "close Thrasymachus 0.44 0.08 2.74 stand"
+  ],
+  [
+   33.631,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   40.489000000000004,
+   "close Thrasymachus 0.44 0.08 2.74 stand"
+  ],
+  [
+   49.50900000000001,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   52.42600000000001,
+   "close Thrasymachus 0.44 0.08 2.74 stand"
+  ],
+  [
+   57.17600000000001,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   60.17600000000001,
+   "close Thrasymachus 0.44 0.08 2.74 stand"
+  ],
+  [
+   64.67600000000002,
+   "ots Thrasymachus Socrates 0.8 2.2"
+  ],
+  [
+   67.67600000000002,
+   "close Thrasymachus 0.44 0.08 2.74 stand"
+  ],
+  [
+   72.418,
+   "court wide"
+  ],
+  [
+   83.793,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   88.543,
+   "close Thrasymachus 0.44 0.08 2.74 stand"
+  ],
+  [
+   91.543,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   96.043,
+   "ots Socrates Thrasymachus 0.1 0.2"
+  ],
+  [
+   99.043,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   103.543,
+   "court wide"
+  ],
+  [
+   106.543,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   111.043,
+   "close Thrasymachus 0.44 0.08 2.74 stand"
+  ],
+  [
+   114.043,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   116.13400000000001,
+   "close Thrasymachus 0.44 0.08 2.74 stand"
+  ],
+  [
+   121.415,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   126.006,
+   "close Thrasymachus 0.44 0.08 2.74 stand"
+  ],
+  [
+   130.756,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   133.756,
+   "close Thrasymachus 0.44 0.08 2.74 stand"
+  ],
+  [
+   138.256,
+   "ots Thrasymachus Socrates 0.8 2.2"
+  ],
+  [
+   141.256,
+   "close Thrasymachus 0.44 0.08 2.74 stand"
+  ],
+  [
+   144.95499999999998,
+   "follow Thrasymachus court"
+  ],
+  [
+   147.641,
+   "close Thrasymachus 1.32 0.07 -3.12 stand"
+  ],
+  [
+   152.391,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   155.391,
+   "follow Thrasymachus court"
+  ],
+  [
+   159.891,
+   "ots Thrasymachus Socrates 0.8 2.2"
+  ],
+  [
+   162.891,
+   "close Thrasymachus -0.47 -0.23 2.47 stand"
+  ],
+  [
+   171.974,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   174.974,
+   "follow Thrasymachus court"
+  ],
+  [
+   179.474,
+   "ots Thrasymachus Socrates 0.8 2.2"
+  ],
+  [
+   182.474,
+   "close Thrasymachus 0.44 0.08 2.74 stand"
+  ],
+  [
+   186.974,
+   "court wide"
+  ],
+  [
+   189.974,
+   "close Thrasymachus 0.44 0.08 2.74 stand"
+  ],
+  [
+   196.376,
+   "court wide"
+  ],
+  [
+   201.651,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   206.401,
+   "close Thrasymachus 1.63 -1.40 1.28 stand"
+  ],
+  [
+   209.401,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   213.901,
+   "ots Socrates Thrasymachus 1.7 -1.0"
+  ],
+  [
+   216.901,
+   "follow Thrasymachus court"
+  ],
+  [
+   220.794,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   225.544,
+   "close Polemarchus 0.00 2.32 -0.00 seat:court"
+  ],
+  [
+   228.544,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   231.64200000000002,
+   "close Thrasymachus -2.92 -0.55 1.57 seat:court"
+  ],
+  [
+   233.81900000000002,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   238.56900000000002,
+   "close Thrasymachus -2.92 -0.55 1.57 seat:court"
+  ],
+  [
+   241.56900000000002,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   246.06900000000002,
+   "ots Socrates Thrasymachus -3.1 -0.6"
+  ],
+  [
+   249.06900000000002,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   253.729,
+   "court wide"
+  ],
+  [
+   257.1320112359551,
+   "close Thrasymachus -2.92 -0.55 1.57 seat:court"
+  ],
+  [
+   260.02438764044945,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   264.97200000000004,
+   "close Thrasymachus -2.92 -0.55 1.57 seat:court"
+  ],
+  [
+   269.68000000000006,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   274.43000000000006,
+   "close Thrasymachus -2.92 -0.55 1.57 seat:court"
+  ],
+  [
+   277.43000000000006,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   281.93000000000006,
+   "ots Socrates Thrasymachus -3.1 -0.6"
+  ],
+  [
+   284.93000000000006,
+   "close Socrates 0.79 2.11 -0.40 seat:court"
+  ],
+  [
+   296.29400000000004,
+   "court wide"
+  ],
+  [
+   299.0342840909091,
+   "follow Glaucon court"
+  ]
+ ],
+ "items": [
+  [
+   69,
+   "Narrator",
+   1.2,
+   5.78
+  ],
+  [
+   70,
+   "Thrasymachus",
+   7.43,
+   18.15
+  ],
+  [
+   71,
+   "Socrates",
+   26.13,
+   14.06
+  ],
+  [
+   72,
+   "Thrasymachus",
+   40.74,
+   8.47
+  ],
+  [
+   73,
+   "Socrates",
+   49.76,
+   2.37
+  ],
+  [
+   74,
+   "Thrasymachus",
+   52.68,
+   19.44
+  ],
+  [
+   75,
+   "Narrator",
+   72.67,
+   10.93
+  ],
+  [
+   77,
+   "Socrates",
+   84.04,
+   31.54
+  ],
+  [
+   78,
+   "Narrator",
+   116.13,
+   2.36
+  ],
+  [
+   79,
+   "Thrasymachus",
+   118.94,
+   2.17
+  ],
+  [
+   80,
+   "Socrates",
+   121.67,
+   4.04
+  ],
+  [
+   81,
+   "Thrasymachus",
+   126.26,
+   17.95
+  ],
+  [
+   82,
+   "Narrator",
+   144.75,
+   2.69
+  ],
+  [
+   83,
+   "Thrasymachus",
+   147.89,
+   19.03
+  ],
+  [
+   84,
+   "Thrasymachus",
+   167.47,
+   27.95
+  ],
+  [
+   85,
+   "Narrator",
+   195.98,
+   5.47
+  ],
+  [
+   87,
+   "Socrates",
+   201.9,
+   15.88
+  ],
+  [
+   88,
+   "Narrator",
+   218.33,
+   2.26
+  ],
+  [
+   89,
+   "Socrates",
+   221.04,
+   10.3
+  ],
+  [
+   90,
+   "Thrasymachus",
+   231.89,
+   1.63
+  ],
+  [
+   91,
+   "Socrates",
+   234.07,
+   19.36
+  ],
+  [
+   92,
+   "Narrator",
+   253.98,
+   10.79
+  ],
+  [
+   93,
+   "Thrasymachus",
+   265.22,
+   4.16
+  ],
+  [
+   94,
+   "Socrates",
+   269.93,
+   20.69
+  ],
+  [
+   95,
+   "Socrates",
+   291.17,
+   4.82
+  ],
+  [
+   96,
+   "Narrator",
+   296.54,
+   5.34
+  ]
+ ],
+ "transitions": [
+  [
+   302.34,
+   "DISSOLVE TO:",
+   97
+  ]
+ ]
+}
