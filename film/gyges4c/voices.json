@@ -1,0 +1,38 @@
+{
+ "Narrator": {
+  "exaggeration": 0.45,
+  "cfg": 0.5
+ },
+ "Julian": {
+  "exaggeration": 0.5,
+  "cfg": 0.45
+ },
+ "Adeimantus": {
+  "exaggeration": 0.55,
+  "cfg": 0.45
+ },
+ "Polemarchus": {
+  "exaggeration": 0.55,
+  "cfg": 0.45
+ },
+ "Servant Boy": {
+  "exaggeration": 0.55,
+  "cfg": 0.45
+ },
+ "Glaucon": {
+  "exaggeration": 0.55,
+  "cfg": 0.45
+ },
+ "Thrasymachus": {
+  "exaggeration": 0.75,
+  "cfg": 0.35
+ },
+ "Cephalus": {
+  "exaggeration": 0.5,
+  "cfg": 0.45
+ },
+ "Socrates": {
+  "exaggeration": 0.6,
+  "cfg": 0.4
+ }
+}
